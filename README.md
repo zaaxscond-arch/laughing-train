@@ -1,1 +1,4 @@
-# laughing-train
+# AMBAHACK IG
+1. PERTAMA CLONE DULU CIK
+2. KEDUA BUKA FILE ( CD )
+3. PYTHON3 filepy.py
